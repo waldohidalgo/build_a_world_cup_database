@@ -13,6 +13,7 @@ El proyecto utiliza bash scripting para interactuar con una base de datos ya sea
     - [Part 2: Insert the data](#part-2-insert-the-data)
     - [Part 3: Query the database](#part-3-query-the-database)
   - [All Passed](#all-passed)
+  - [Proyecto Entregado y Aprobado](#proyecto-entregado-y-aprobado)
   - [Scripts](#scripts)
     - [Script de Inserción de data a tablas de base de datos](#script-de-inserción-de-data-a-tablas-de-base-de-datos)
     - [Script que ejecuta queries a las tablas de la base de datos](#script-que-ejecuta-queries-a-las-tablas-de-la-base-de-datos)
@@ -71,6 +72,10 @@ You should correctly complete the queries in the queries.sh file. Fill in each e
 A continuación muestro un screenshot con todos los test aprobados:
 
 ![All Passed](./screenshots/all_complete.webp)
+
+## Proyecto Entregado y Aprobado
+
+![Proyecto Entregado y Aprobado](./screenshots/passed.webp)
 
 ## Scripts
 
